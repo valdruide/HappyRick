@@ -7,7 +7,7 @@ Message vocal enregistré par le doubleur VF de la voix de Rick.
 
 ### Link
 
-- Live Site URL: [LINK](http://tristan-viard.alwaysdata.net/Happy-Rick/)
+- Live Site URL: [LINK](htmlpreview.github.io/?https://github.com/valdruide/HappyRick/blob/main/index.html)
 
 ## Author
 
