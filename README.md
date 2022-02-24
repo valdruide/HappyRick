@@ -7,7 +7,7 @@ Message vocal enregistré par le doubleur VF de la voix de Rick.
 
 ### Link
 
-- Live Site URL: [LINK](htmlpreview.github.io/?https://github.com/valdruide/HappyRick/blob/main/index.html)
+- Live Site URL: [LINK](https://htmlpreview.github.io/?https://github.com/valdruide/HappyRick/blob/main/index.html)
 
 ## Author
 
